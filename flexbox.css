@@ -67,19 +67,36 @@ border: 2px solid  hsl(0, 0%, 95%);
 }
 
 .b_first{
+    background-color:hsl(0, 0%, 95%);
+    color:hsl(31, 77%, 52%);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.b_first:hover{
     background-color: hsl(31, 77%, 52%);
     color:hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
 }
 
-
 .b_second{
+    background-color: hsl(0, 0%, 95%);
+    color:hsl(184, 100%, 22%);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+
+.b_second:hover{
     background-color: hsl(184, 100%, 22%);
     color:hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
 }
 
 .b_third{
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);
+    font-family: 'Lexend Deca', sans-serif;
+}
+.b_third:hover{
     background-color: hsl(179, 100%, 13%);
     color:hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
