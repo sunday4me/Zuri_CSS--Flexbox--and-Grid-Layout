@@ -6,20 +6,19 @@
 body {
    height:auto;
    width:1440px; 
-   background-color: hsl(0, 0%, 95%)
-   ;
+   background-color: hsl(0, 0%, 95%);
 }
 
 h1{
     color :hsl(0, 0%, 95%);
     padding: 50px;
+    font-family: 'Big Shoulders Display', cursive;
 }
 
 .container{
     width:900px;
     height:500px;
     box-sizing:border-box;
-    border:1px solid red;
     margin:200px auto;
     border-radius:20px;
     display: flex;
@@ -52,6 +51,7 @@ p{
     color :hsla(0, 0%, 100%, 0.75);
     font-size:15px;
     padding:10px 30px 30px 50px;
+    font-family: 'Lexend Deca', sans-serif;
 }
 
 img{
@@ -69,16 +69,19 @@ border: 2px solid  hsl(0, 0%, 95%);
 .b_first{
     background-color: hsl(31, 77%, 52%);
     color:hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
 }
 
 
 .b_second{
     background-color: hsl(184, 100%, 22%);
     color:hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
 }
 
 .b_third{
     background-color: hsl(179, 100%, 13%);
     color:hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
 }
 
